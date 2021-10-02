@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>87013753676-dq208pi120iffoessl27olit6uvah0ds.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.87013753676-dq208pi120iffoessl27olit6uvah0ds</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>87013753676-kbc5cbph7hl4m8qvp0ikbar1djj18fmc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDP0_Liq4lI0hF7hVlfJZDnThXmFOcZOXU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>87013753676</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.James.app</string>
+	<key>PROJECT_ID</key>
+	<string>jamesapp-c1a74</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jamesapp-c1a74.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:87013753676:ios:0b0aac0406d9045e0bc5e9</string>
+	<key>DATABASE_URL</key>
+	<string>https://jamesapp-c1a74.firebaseio.com</string>
+</dict>
+</plist>

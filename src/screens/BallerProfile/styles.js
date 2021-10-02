@@ -1,0 +1,148 @@
+
+import {
+  createStyle,
+} from 'src/styles';
+
+export default createStyle({
+  container: {
+    backgroundColor: '#000000',
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    overflow: 'scroll',
+  },
+  info: {
+    width: 170,
+    height: 'auto',
+  },
+  counter: {
+    flex: 1,
+    flexDirection: 'row',
+    margin: 5,
+    height: 150,
+    backgroundColor: 'transparent',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  counterStat: {
+    flex: 1,
+    color: '#ffffff',
+    backgroundColor: 'rgba(0,0,0,.6)',
+    height: 75,
+    width: 75,
+    alignContent: 'center',
+    textAlign: 'center',
+    fontFamily: 'BarlowCondensed-Bold',
+    fontSize: 16,
+    borderColor: '#20648a',
+    borderWidth: 5,
+    borderRadius: 40,
+    lineHeight: 70,
+    overflow: 'hidden',
+  },
+  stats: {
+    flex: 1,
+    flexDirection: 'row',
+    margin: 5,
+    height: 45,
+    backgroundColor: '#20648a',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  statsText: {
+    flex: 1,
+    color: '#ffffff',
+    textAlign: 'center',
+    fontFamily: 'BarlowCondensed-Bold',
+    fontSize: 20,
+  },
+  photoContainer: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  loadView: {
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  content: {
+    width: '100%',
+    height: '100%',
+  },
+  profileImage: {
+    backgroundColor: '#ffffff',
+    overflow: 'hidden',
+    justifyContent: 'center',
+    alignItems: 'center',
+    width: 125,
+    height: 125,
+    borderColor: '#ffffff',
+    borderWidth: 1,
+  },
+  profilePic: {
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  profile: {
+    height: 30,
+  },
+  profileText: {
+    color: '#ffffff',
+    fontFamily: 'BarlowCondensed-Medium',
+    fontSize: 20,
+  },
+  photos: {
+    margin: 5,
+    width: 150,
+    height: 150,
+  },
+  noteCard: {
+    borderRadius: 10,
+    overflow: 'hidden',
+    backgroundColor: 'transparent',
+    borderColor: 'transparent',
+    height: 250,
+
+  },
+  noteText: {
+    textAlign: 'center',
+    fontFamily: 'BarlowCondensed-Medium',
+    fontSize: 28,
+    lineHeight: 36,
+  },
+  blurContainer: {
+    position: 'absolute',
+    top: 0, left: 0, bottom: 0, right: 0,
+  },
+  cardBody: {
+    backgroundColor: 'transparent',
+    width: '90%',
+    height: 250,
+    padding: 20,
+  },
+  noteStyle: {
+    fontFamily: 'BarlowCondensed-Medium',
+    fontSize: 24,
+    textAlign: 'center',
+    lineHeight: 26,
+  },
+  uploadButton: {
+    backgroundColor: '#478cba',
+    borderWidth: 0,
+    borderColor: '#fff',
+    marginBottom: 0,
+    padding: 15,
+    position: 'absolute',
+    bottom: 0,
+    left: 0,
+    right: 0,
+    zIndex: 9,
+  },
+  viewList: {
+    backgroundColor: 'transparent',
+    height: 'auto',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});

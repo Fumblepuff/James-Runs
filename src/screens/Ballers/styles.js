@@ -1,0 +1,170 @@
+
+import {
+  createStyle,
+} from 'src/styles';
+
+export default createStyle({
+  container: {
+    backgroundColor: '#000000',
+  },
+  filterBtn: {
+    flex: 1,
+  },
+  photoContainer: {
+    flexDirection: 'row',
+    flexWrap: 'wrap',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  loadView: {
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  titleText: {
+    fontFamily: 'BarlowCondensed-Bold',
+    fontSize: 20,
+    color: '#ffffff',
+    marginBottom: 10,
+    width: '100%',
+    textAlign: 'left',
+  },
+  text: {
+    fontFamily: 'BarlowCondensed-Medium',
+    fontSize: 18,
+    color: '#ffffff',
+    marginBottom: 15,
+  },
+  textInput: {
+    color: '#ffffff',
+    backgroundColor: '#000000',
+    fontFamily: 'BarlowCondensed-Bold',
+    fontSize: 16,
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    padding: '5%',
+    width: '100%',
+    textAlign: 'left',
+    elevation: 0,
+  },
+  profileImage: {
+    backgroundColor: '#ffffff',
+    overflow: 'hidden',
+    justifyContent: 'center',
+    alignItems: 'center',
+    width: 125,
+    height: 125,
+    borderColor: '#ffffff',
+    borderWidth: 1,
+  },
+  profilePic: {
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  profile: {
+    height: 30,
+  },
+  profileText: {
+    color: '#ffffff',
+    fontFamily: 'BarlowCondensed-Medium',
+    fontSize: 20,
+  },
+  photos: {
+    margin: 5,
+    width: 150,
+    height: 150,
+  },
+  courtImageWrapper: {
+    position: 'absolute',
+    top: 75,
+    left: 0,
+    width: '100%',
+    height: 190,
+    borderBottomWidth: 2,
+    borderColor: '#222222',
+  },
+  courtImage: {
+    flex: 1,
+    resizeMode: 'cover',
+    width: '100%',
+    height: '100%',
+    opacity: 0.5,
+
+  },
+  modal: {
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  modalHeader: {
+    backgroundColor: '#000000',
+    position: 'absolute',
+    top: 0,
+    width: '100%',
+    height: 75,
+  },
+  modalWrapper: {
+    flex: 1,
+    width: '100%',
+    padding: 20,
+    position: 'relative',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  close: {
+    height: 75,
+    width: 100,
+    position: 'absolute',
+    right: 0,
+  },
+  closeText: {
+    color: '#ffffff',
+    textAlign: 'center',
+    fontSize: 28,
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    fontFamily: 'BarlowCondensed-Bold',
+  },
+  squadButtons: {
+    marginBottom: 15,
+  },
+  addBtn: {
+    backgroundColor: '#478cba',
+    height: 70,
+    width: '100%',
+    bottom: 0,
+  },
+  addBtnText: {
+    textAlign: 'center',
+    color: '#ffffff',
+    fontFamily: 'BarlowCondensed-Bold',
+    fontSize: 20,
+  },
+  courtBtnText: {
+    color: '#ffffff',
+    fontFamily: 'BarlowCondensed-Medium',
+  },
+  addImageBtn: {
+    backgroundColor: '#478cba',
+    position: 'absolute',
+    top: 0,
+    right: 20,
+    zIndex: 9,
+  },
+  uploadButton: {
+    backgroundColor: '#478cba',
+    borderWidth: 0,
+    borderColor: '#fff',
+    marginBottom: 0,
+    padding: 15,
+    position: 'absolute',
+    bottom: 0,
+    left: 0,
+    right: 0,
+    zIndex: 9,
+  },
+  viewList: {
+    backgroundColor: 'transparent',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+});

@@ -1,0 +1,99 @@
+{
+  "leagueId": {
+    "value": 3,
+    "options": [
+      {
+        "id": 1,
+        "name": "American Basketball Association",
+        "shortName": "American Basketball Association",
+        "eventLevelId": 5,
+        "isSelected": "No"
+      },
+      {
+        "id": 2,
+        "name": "East Coast Basketball League",
+        "shortName": "ECBL",
+        "eventLevelId": 3,
+        "isSelected": "No"
+      },
+      {
+        "id": 3,
+        "name": "National Collegiate Athletic Association",
+        "shortName": "NCAA",
+        "eventLevelId": 4,
+        "isSelected": "Yes"
+      }
+    ]
+  },
+  "eventLevelId": {
+    "value": 1,
+    "options": [
+      {
+        "id": 1,
+        "name": "Recreation Youth",
+        "shortName": "RCY",
+        "isSelected": "Yes"
+      },
+      {
+        "id": 3,
+        "name": "Amateur",
+        "shortName": "AMA",
+        "isSelected": "No"
+      },
+      {
+        "id": 5,
+        "name": "Minor League",
+        "shortName": "MIL",
+        "isSelected": "No"
+      }
+    ]
+  },
+  "services": [
+    {
+      "id": 1,
+      "name": "Ticketing",
+      "isSelected": "No",
+      "price": 50,
+      "options": [],
+      "optionsType": null
+    },
+    {
+      "id": 15,
+      "name": "Scouting",
+      "isSelected": "Yes",
+      "price": 60,
+      "options": [],
+      "optionsType": null
+    },
+    {
+      "id": 17,
+      "name": "Statkeeping",
+      "isSelected": "Yes",
+      "price": 40,
+      "options": [
+        {
+          "id": 1,
+          "name": "Home",
+          "isSelected": "No"
+        },
+        {
+          "id": 2,
+          "name": "Guest",
+          "isSelected": "Yes"
+        },
+        {
+          "id": 3,
+          "name": "Both",
+          "isSelected": "No"
+        }
+      ],
+      "optionsType": "radio"
+    }
+  ],
+  "orderTotals": {
+    "subTotal": 100,
+    "discount": 5,
+    "tax": 20,
+    "grandTotal": 115
+  }
+}

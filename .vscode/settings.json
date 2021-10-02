@@ -1,0 +1,7 @@
+{
+    "editor.tabSize": 2,
+    "java.autobuild.enabled": false,
+    "java.configuration.updateBuildConfiguration": "disabled",
+    "java.import.gradle.enabled": false,
+    "java.import.maven.enabled": false
+}

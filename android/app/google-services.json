@@ -1,0 +1,125 @@
+{
+  "project_info": {
+    "project_number": "87013753676",
+    "firebase_url": "https://jamesapp-c1a74.firebaseio.com",
+    "project_id": "jamesapp-c1a74",
+    "storage_bucket": "jamesapp-c1a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87013753676:android:154a29293092ed690bc5e9",
+        "android_client_info": {
+          "package_name": "com.james"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87013753676-fnat1qon6nctraecc89od1vqfegqdq5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.james",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "87013753676-kbc5cbph7hl4m8qvp0ikbar1djj18fmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.james",
+            "certificate_hash": "651288e448cd2a754bd001ebd79b903a4160c21d"
+          }
+        },
+        {
+          "client_id": "87013753676-ud3or84389q4rp6olb7vofa3t7d6f2th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCQJQaR6bKv0PJ4_3bq_gCb6vjg3SCBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87013753676-ud3or84389q4rp6olb7vofa3t7d6f2th.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87013753676-dq208pi120iffoessl27olit6uvah0ds.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.James.app",
+                "app_store_id": "1400549559"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87013753676:android:71e391c9fa3a37e70bc5e9",
+        "android_client_info": {
+          "package_name": "com.jamesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87013753676-8g2j4rcgtntl9e3hep909hp2q7khgv9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamesapp",
+            "certificate_hash": "e1bb1a09f78c8016dd13b9f579b210be337a7398"
+          }
+        },
+        {
+          "client_id": "87013753676-nqinuktv0u7j7vi8n4n4o7uoglr9jhch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamesapp",
+            "certificate_hash": "651288e448cd2a754bd001ebd79b903a4160c21d"
+          }
+        },
+        {
+          "client_id": "87013753676-v0709s2b37rrnc8kqip9en09o8vec8qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jamesapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "87013753676-ud3or84389q4rp6olb7vofa3t7d6f2th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCQJQaR6bKv0PJ4_3bq_gCb6vjg3SCBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87013753676-ud3or84389q4rp6olb7vofa3t7d6f2th.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "87013753676-dq208pi120iffoessl27olit6uvah0ds.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.James.app",
+                "app_store_id": "1400549559"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

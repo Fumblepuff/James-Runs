@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "target": "es6",
+      "module": "commonjs"
+    },
+    "exclude": [
+        "node_modules",
+        "**/node_modules/*",
+        "native-base-theme",
+        "**/native-base-theme/*",
+        "android",
+        "ios"
+    ]
+}

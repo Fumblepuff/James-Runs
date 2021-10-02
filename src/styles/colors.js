@@ -1,0 +1,22 @@
+
+export default {
+  transparent: 'transparent',
+  white: 'white',
+  black: 'black',
+  black08: 'rgba(0,0,0,.8)',
+  black2: '#141414',
+  red: 'red',
+  red2: '#FD6464',
+  red3: '#DB4A39',
+  yellow: 'yellow',
+  gray: 'gray',
+  gray1: '#353535',
+  gray1A08: 'rgba(53, 53, 53, .9)',
+  gray2: '#3c3c3c',
+  gray2A08: 'rgba(60, 60, 60, .8)',
+  blue: '#498BBA',
+  blue2: '#3B5998',
+  blue3: '#478cba',
+  blue4: '#044571',
+  green: '#52CE5E',
+};
