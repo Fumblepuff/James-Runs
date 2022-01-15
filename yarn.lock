@@ -9801,10 +9801,10 @@
   "resolved" "https://registry.npmjs.org/time-stamp/-/time-stamp-1.1.0.tgz"
   "version" "1.1.0"
 
-"tipsi-stripe@^9.0.0":
-  "integrity" "sha512-nOfFsRYlqvsr0zbDfCUmXypmZ8stWpp++zHmaKSVge67M5Sc4Swpg+p9+tBZYkssatg2MSYv1WRalCIni0TEIA=="
-  "resolved" "https://registry.npmjs.org/tipsi-stripe/-/tipsi-stripe-9.0.0.tgz"
-  "version" "9.0.0"
+"tipsi-stripe@^9.2.0":
+  "integrity" "sha512-09/KlprrN4xkFFdmswEI2RddSFFu8rvdVSA/GPBXKTg4Pg6tPESDQCAnutW3E3E2uvNIT+HDW1ODCdVUmaPOdQ=="
+  "resolved" "https://registry.npmjs.org/tipsi-stripe/-/tipsi-stripe-9.2.0.tgz"
+  "version" "9.2.0"
 
 "tmp@^0.0.33":
   "integrity" "sha512-jRCJlojKnZ3addtTOjdIqoRuPEKBvNXcGYqzO6zWZX8KfKEpnGY5jfggJQ3EjKuu8D4bJRr0y+cYJFmYbImXGw=="

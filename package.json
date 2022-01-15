@@ -83,7 +83,7 @@
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
     "rn-fetch-blob": "^0.12.0",
-    "tipsi-stripe": "^9.0.0",
+    "tipsi-stripe": "^9.2.0",
     "urijs": "^1.19.2",
     "uuid": "^3.3.2"
   },
