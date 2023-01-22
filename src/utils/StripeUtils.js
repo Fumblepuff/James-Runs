@@ -1,5 +1,5 @@
 
-import stripe from 'tipsi-stripe';
+import stripe from '@stripe/stripe-react-native';
 
 import {
   cls,
